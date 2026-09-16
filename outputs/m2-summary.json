@@ -1,0 +1,77 @@
+{
+  "experiment": "M2A neural-class enrichment and candidate prioritization",
+  "candidate_priority_rows": 75,
+  "unique_priority_fly_genes_tested": 75,
+  "background_fca_genes": 17372,
+  "permutations": 10000,
+  "random_seed": 20260916,
+  "significant_neural_classes_fdr_lt_0_05": [],
+  "top_novel_candidates": [
+    {
+      "rank": 1,
+      "human": "PTPRF",
+      "fly": "Lar",
+      "score": 93.02222222222221
+    },
+    {
+      "rank": 2,
+      "human": "FOXP1 | FOXP2",
+      "fly": "FoxP",
+      "score": 78.02222222222223
+    },
+    {
+      "rank": 3,
+      "human": "CAMKV",
+      "fly": "CaMKI",
+      "score": 68.63333333333333
+    },
+    {
+      "rank": 4,
+      "human": "SEMA6D",
+      "fly": "Sema1a",
+      "score": 68.22222222222223
+    },
+    {
+      "rank": 5,
+      "human": "CYHR1",
+      "fly": "CG32486",
+      "score": 67.9
+    },
+    {
+      "rank": 6,
+      "human": "DCC",
+      "fly": "fra",
+      "score": 63.333333333333336
+    },
+    {
+      "rank": 7,
+      "human": "ELOVL1",
+      "fly": "CG31522",
+      "score": 62.67916666666667
+    },
+    {
+      "rank": 9,
+      "human": "RPL8",
+      "fly": "RpL8",
+      "score": 61.71111111111111
+    },
+    {
+      "rank": 10,
+      "human": "ARHGAP39",
+      "fly": "RhoGAP93B",
+      "score": 61.60000000000001
+    },
+    {
+      "rank": 11,
+      "human": "DUSP6",
+      "fly": "Mkp3",
+      "score": 60.9
+    }
+  ],
+  "boundaries": [
+    "The priority score is an explicit exploratory heuristic, not a probability or p-value.",
+    "Broad-class enrichment is expression-matched but does not establish causality.",
+    "Detailed FlyBase cell types are not direct MaleCNS bodyId measurements.",
+    "No gene-to-bodyId assignment is made in M2A."
+  ]
+}

@@ -1,0 +1,7 @@
+cell_class,candidate_genes,candidate_mean_positive_percent,matched_null_mean_positive_percent,difference_percentage_points,empirical_p_one_sided,fdr_bh,permutations,matching_variable
+motor_neuron,75,19.85333333333333,19.099306756756768,0.7540265765765639,0.19638036196380362,0.9449055094490552,10000,mean positive percent across six neural classes; 50-quantile matched
+interneuron,75,13.64,13.262454054054055,0.37754594594594515,0.31496850314968505,0.9449055094490552,10000,mean positive percent across six neural classes; 50-quantile matched
+neuron,75,16.16,16.371485135135064,-0.21148513513506373,0.6548345165483451,0.9539046095390461,10000,mean positive percent across six neural classes; 50-quantile matched
+glial_cell,75,15.493333333333334,15.708191891891934,-0.2148585585585998,0.601939806019398,0.9539046095390461,10000,mean positive percent across six neural classes; 50-quantile matched
+sensory_neuron,75,16.08,16.6961986486487,-0.6161986486487017,0.8363163683631637,0.9539046095390461,10000,mean positive percent across six neural classes; 50-quantile matched
+sensory_organ_cell,75,15.093333333333334,16.027239189189117,-0.9339058558557838,0.9539046095390461,0.9539046095390461,10000,mean positive percent across six neural classes; 50-quantile matched

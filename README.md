@@ -29,6 +29,32 @@ claim that all mapped genes are causal for ADHD or functionally conserved in the
 same neural context. See
 [`research/MILESTONE-001-adhd-to-drosophila-ortholog-map.md`](research/MILESTONE-001-adhd-to-drosophila-ortholog-map.md).
 
+## M2 in progress
+
+M2A tests whether the 75 unique highest-DIOPT fly genes are enriched in six
+broad Fly Cell Atlas neural classes relative to expression-matched background
+genes. Ten thousand matched permutations found no class significant after FDR
+correction. This supports moving to finer, evidence-backed cell types and
+MaleCNS circuit tests rather than claiming generic neural enrichment.
+
+M2B then tests 11 explicitly bridged candidate cell types against the complete
+1.1 GB MaleCNS connection-weight graph. After 22 directed tests and FDR
+correction, two exploratory signals remain: elevated consensus-dopamine input
+to the `FoxP`-linked LC10c group, and elevated TmY4 output to consensus-dopamine
+neurons for the `Lar`-linked hypothesis. These are circuit-proximity results,
+not body-level gene-expression or causal ADHD claims.
+
+See
+[`research/2026-09-16-m2a-neural-enrichment-results.md`](research/2026-09-16-m2a-neural-enrichment-results.md)
+and
+[`research/2026-09-16-m2b-dopamine-proximity-results.md`](research/2026-09-16-m2b-dopamine-proximity-results.md).
+Run:
+
+```bash
+.venv/bin/python scripts/run_m2_neural_enrichment.py
+.venv/bin/python scripts/run_m2b_dopamine_proximity.py
+```
+
 ## Project layout
 
 ```text

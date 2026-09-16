@@ -1,0 +1,14 @@
+bridge_id,linked_human_genes,linked_fly_genes,fca_cell_type,rule,kind,annotated_neurons
+lar-lawf2,PTPRF,Lar,lamina wide-field 2 neuron,type == Lawf2 or flywireType == Lawf2,candidate,383
+lar-tmy4,PTPRF,Lar,transmedullary Y neuron TmY4,type == TmY4 or flywireType == TmY4,candidate,562
+lar-octopamine,PTPRF,Lar,adult octopaminergic neuron,consensus_nt == octopamine,candidate,101
+foxp-cg32486-dm4,FOXP1 | FOXP2 | CYHR1,FoxP | CG32486,distal medullary amacrine neuron Dm4,type == Dm4 or flywireType == Dm4; excludes DM4 olfactory glomerular types,candidate,99
+foxp-lc10c,FOXP1 | FOXP2,FoxP,lobula columnar neuron LC10c,flywireType == LC10c,candidate,255
+camki-photoreceptor,CAMKV,CaMKI,photoreceptor neuron family,superclass == ol_sensory,candidate,6098
+sema1a-hugin,SEMA6D,Sema1a,Hugin neuron,type == Hugin-RG or flywireType == Hugin-RG,candidate,4
+sema1a-itp,SEMA6D,Sema1a,ITP neuron,type == ITP or flywireType == ITP,candidate,7
+sema1a-alpn,SEMA6D,Sema1a,antennal lobe projection neuron,class == ALPN,candidate,686
+cg32486-crz,CYHR1,CG32486,adult corazonin neuron,flywireType == CRZ,candidate,5
+cg32486-dm1,CYHR1,CG32486,distal medullary amacrine neuron Dm1,type == Dm1 or flywireType == Dm1,candidate,80
+calibration-kenyon-cell,,,Kenyon cell positive comparator,class == Kenyon_Cell,calibration,4064
+calibration-mbon,,,mushroom body output neuron positive comparator,class == MBON,calibration,97

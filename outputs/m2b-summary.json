@@ -1,0 +1,31 @@
+{
+  "experiment": "M2B curated candidate-cell-type dopamine proximity",
+  "annotation_rows": 211577,
+  "connectome_rows_scanned": 151856684,
+  "consensus_dopamine_neurons": 396,
+  "candidate_bridge_groups": 11,
+  "calibration_groups": 2,
+  "candidate_tests": 22,
+  "permutations": 10000,
+  "random_seed": 20260916,
+  "significant_candidate_tests_fdr_lt_0_05": [
+    {
+      "bridge_id": "foxp-lc10c",
+      "direction": "dopamine_to_group",
+      "fdr_bh": 0.0010998900109989002,
+      "fold_vs_matched_null": 2.5062573095719265
+    },
+    {
+      "bridge_id": "lar-tmy4",
+      "direction": "group_to_dopamine",
+      "fdr_bh": 0.0010998900109989002,
+      "fold_vs_matched_null": 6.873462293159341
+    }
+  ],
+  "boundaries": [
+    "Only explicit annotation bridges are tested; unmapped detailed cell types remain unknown.",
+    "Fly Cell Atlas expression is not assigned to individual MaleCNS body IDs.",
+    "Connectivity proximity is not evidence that the linked gene is expressed in each tested neuron.",
+    "The stratified bootstrap treats reconstructed neurons as sampling units and does not prove causality."
+  ]
+}
