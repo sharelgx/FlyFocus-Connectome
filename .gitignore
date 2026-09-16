@@ -1,0 +1,38 @@
+# Project-local Python environment and caches
+.venv/
+.cache/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Scientific data stay on the project drive and are not committed to GitHub.
+# Keep documentation and checksums versioned.
+data/**/*.feather
+data/**/*.gz
+data/**/*.xlsx
+data/**/*.h5ad
+data/**/*.loom
+data/**/*.loomx
+data/**/*.mtx
+data/**/*.mtx.gz
+data/**/*.tar
+data/**/*.tar.gz
+data/**/*.zip
+data/**/*.bw
+data/**/*.bigWig
+
+# Partial/resumable downloads
+*.aria2
+*.part
+
+# Large reproducible derived table; regenerate with the project script.
+outputs/adhd-adult-nervous-scrna-expression.csv
+
+# Social-media working images stay local; commit only canonical finals.
+assets/social-media/**/poster-base.png
+assets/social-media/**/poster-hope-base.png
+assets/social-media/**/poster-hope.png
+assets/social-media/**/poster-v1-negative.png
+assets/social-media/flyfocus-adhd-mechanism-cn-v1.png
+assets/social-media/flyfocus-adhd-mechanism-cn-v2.png
+assets/social-media/flyfocus-adhd-mechanism-cn-v3-liulaoshi-watermark.png

@@ -1,0 +1,13 @@
+{
+  "neurotransmitter_records": 1835518,
+  "dopamine_target_neurons": 4461,
+  "unique_body_ids": 4461,
+  "evidence_counts": {
+    "consensus_dopamine": 396,
+    "celltype_prediction_only": 4062,
+    "individual_prediction_only": 3
+  },
+  "with_body_annotation": 4461,
+  "with_named_type": 4457,
+  "boundary": "Dopamine identity is predicted/consensus neurotransmitter evidence, not gene expression measured for each bodyId."
+}

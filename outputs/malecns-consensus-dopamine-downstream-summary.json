@@ -1,0 +1,11 @@
+{
+  "consensus_dopamine_source_neurons": 396,
+  "connectome_rows_scanned": 151856684,
+  "direct_edges_found": 508063,
+  "unique_downstream_neurons": 295138,
+  "total_outgoing_synapse_weight": 861305,
+  "annotated_downstream_neurons": 40479,
+  "top_table_rows": 5000,
+  "group_rows": 6818,
+  "scope": "one-hop outgoing edges from consensus_nt=dopamine neurons"
+}

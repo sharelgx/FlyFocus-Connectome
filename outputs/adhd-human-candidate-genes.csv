@@ -1,0 +1,108 @@
+human_gene_symbol,credible_set_mapped,magma_exomewide,magma_p,positive_control,evidence_sources
+ABHD5,True,False,,False,Demontis2023_Table7
+ADGRL3,False,False,,True,latrophilin literature control
+AMIGO3,True,False,,False,Demontis2023_Table7
+AMT,True,False,,False,Demontis2023_Table7
+ANO10,True,True,1.724e-07,False,Demontis2023_Table13 | Demontis2023_Table7
+ARHGAP28,True,False,,False,Demontis2023_Table7
+ARHGAP39,True,False,,False,Demontis2023_Table7
+ARTN,True,True,2.5931e-08,False,Demontis2023_Table13 | Demontis2023_Table7
+ATP6V0B,False,True,1.3563e-06,False,Demontis2023_Table13
+B4GALT2,True,False,,False,Demontis2023_Table7
+BSN,False,True,2.5657e-06,False,Demontis2023_Table13
+C12orf68,False,True,1.4074e-06,False,Demontis2023_Table13
+C1orf210,True,False,,False,Demontis2023_Table7
+C8orf82,True,False,,False,Demontis2023_Table7
+CADM2,False,True,4.5003e-07,False,Demontis2023_Table13
+CALN1,False,True,1.8158e-06,False,Demontis2023_Table13
+CAMKV,True,True,7.4592e-07,False,Demontis2023_Table13 | Demontis2023_Table7
+CARF,False,True,2.4322e-06,False,Demontis2023_Table13
+CCDC24,False,True,5.4774e-07,False,Demontis2023_Table13
+CDC20,False,True,6.8835e-09,False,Demontis2023_Table13
+CDH8,True,True,4.1302e-11,False,Demontis2023_Table13 | Demontis2023_Table7
+CNBD1,False,True,1.0548e-06,False,Demontis2023_Table13
+COL19A1,True,True,5.0449e-07,False,Demontis2023_Table13 | Demontis2023_Table7
+COMMD5,True,False,,False,Demontis2023_Table7
+CTD-2330K9.3,True,False,,False,Demontis2023_Table7
+CUBN,False,True,4.9837e-07,False,Demontis2023_Table13
+CYHR1,True,False,,False,Demontis2023_Table7
+DCC,True,True,1.3093e-10,False,Demontis2023_Table13 | Demontis2023_Table7
+DUSP6,False,True,2.1511e-06,False,Demontis2023_Table13
+ELOVL1,True,True,1.7847e-07,False,Demontis2023_Table13 | Demontis2023_Table7
+FAM198A,True,False,,False,Demontis2023_Table7
+FAM203A,True,False,,False,Demontis2023_Table7
+FAM212A,True,False,,False,Demontis2023_Table7
+FAM83H,True,False,,False,Demontis2023_Table7
+FOXP1,True,False,,False,Demontis2023_Table7
+FOXP2,True,True,1.9091e-09,False,Demontis2023_Table13 | Demontis2023_Table7
+GIGYF2,False,True,1.5645e-06,False,Demontis2023_Table13
+GMPPB,True,False,,False,Demontis2023_Table7
+GNAI2,True,False,,False,Demontis2023_Table7
+GNAT1,True,True,1.0938e-06,False,Demontis2023_Table13 | Demontis2023_Table7
+GPX1,True,False,,False,Demontis2023_Table7
+HYAL3,True,True,2.5326e-06,False,Demontis2023_Table13 | Demontis2023_Table7
+HYI,True,True,7.3335e-08,False,Demontis2023_Table13 | Demontis2023_Table7
+IQCF3,True,False,,False,Demontis2023_Table7
+KAT2B,True,False,,False,Demontis2023_Table7
+KCNJ13,False,True,1.4169e-06,False,Demontis2023_Table13
+KDM4A,False,True,3.1831e-11,False,Demontis2023_Table13
+KIFC2,True,False,,False,Demontis2023_Table7
+L3MBTL4,True,False,,False,Demontis2023_Table7
+LRRC14,True,False,,False,Demontis2023_Table7
+LRRC24,True,False,,False,Demontis2023_Table7
+LSM6,True,True,3.7061e-08,False,Demontis2023_Table13 | Demontis2023_Table7
+MAML3,False,True,9.3289e-07,False,Demontis2023_Table13
+MAPKAPK3,True,False,,False,Demontis2023_Table7
+MED8,True,False,,False,Demontis2023_Table7
+MEF2C,False,True,5.339e-10,True,Demontis2023_Table13 | locomotor/sleep literature control
+MFSD3,True,False,,False,Demontis2023_Table7
+MON1A,True,False,,False,Demontis2023_Table7
+MPL,False,True,1.5292e-07,False,Demontis2023_Table13
+MROH1,True,False,,False,Demontis2023_Table7
+MST1,True,False,,False,Demontis2023_Table7
+MST1R,True,False,,False,Demontis2023_Table7
+NF1,False,False,,True,NF1 literature control
+NKX2-4,True,False,,False,Demontis2023_Table7
+POC1B,True,False,,False,Demontis2023_Table7
+PPIH,True,False,,False,Demontis2023_Table7
+PPP1R16A,True,False,,False,Demontis2023_Table7
+PTPRF,True,True,1.3709e-12,False,Demontis2023_Table13 | Demontis2023_Table7
+RBM6,True,False,,False,Demontis2023_Table7
+RECQL4,True,False,,False,Demontis2023_Table7
+REELD1,True,False,,False,Demontis2023_Table7
+RHOA,True,False,,False,Demontis2023_Table7
+RNF123,True,False,,False,Demontis2023_Table7
+ROBO2,False,True,1.5778e-06,False,Demontis2023_Table13
+RPL8,True,False,,False,Demontis2023_Table7
+RPLP2,False,True,7.9442e-07,False,Demontis2023_Table13
+SEMA3F,False,True,1.3641e-07,False,Demontis2023_Table13
+SEMA6D,False,True,7.2376e-08,False,Demontis2023_Table13
+SH3RF2,True,False,,False,Demontis2023_Table7
+SLC6A3,False,False,,True,DAT dopamine-transporter literature control
+SLC6A9,False,True,7.0447e-08,False,Demontis2023_Table13
+SNRK,True,False,,False,Demontis2023_Table7
+SORCS3,True,True,6.7361e-10,False,Demontis2023_Table13 | Demontis2023_Table7
+ST3GAL3,True,True,2.2149e-11,False,Demontis2023_Table13 | Demontis2023_Table7
+STK32C,False,True,5.7588e-07,False,Demontis2023_Table13
+SZT2,True,True,9.2858e-08,False,Demontis2023_Table13 | Demontis2023_Table7
+TCF12,False,True,2.1621e-06,False,Demontis2023_Table13
+TCTA,True,False,,False,Demontis2023_Table7
+TIE1,False,True,1.8369e-07,False,Demontis2023_Table13
+TMEM200C,True,True,1.8174e-07,False,Demontis2023_Table13 | Demontis2023_Table7
+TRAIP,True,False,,False,Demontis2023_Table7
+TRAPPC9,False,False,,True,locomotor/sleep literature control
+TSC22D2,False,True,2.4231e-07,False,Demontis2023_Table13
+VGLL3,True,False,,False,Demontis2023_Table7
+VPS28,True,False,,False,Demontis2023_Table7
+VRK1,True,False,,False,Demontis2023_Table7
+WDR12,False,True,2.7057e-06,False,Demontis2023_Table13
+XRN2,True,True,3.1279e-11,False,Demontis2023_Table13 | Demontis2023_Table7
+ZNF16,True,False,,False,Demontis2023_Table7
+ZNF197,True,False,,False,Demontis2023_Table7
+ZNF251,True,False,,False,Demontis2023_Table7
+ZNF34,True,False,,False,Demontis2023_Table7
+ZNF517,True,False,,False,Demontis2023_Table7
+ZNF660,True,False,,False,Demontis2023_Table7
+ZNF7,True,False,,False,Demontis2023_Table7
+ZNF827,True,False,,False,Demontis2023_Table7
+ZNF852,True,False,,False,Demontis2023_Table7

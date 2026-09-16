@@ -1,0 +1,44 @@
+{
+  "method": "Demontis 2023 Tables 7 and 13 union plus literature positive controls; FlyBase FB2026_02 joins",
+  "human_candidate_genes": 107,
+  "credible_set_genes": 76,
+  "magma_genes": 45,
+  "positive_controls": 5,
+  "human_genes_with_flybase_ortholog": 74,
+  "human_genes_without_flybase_ortholog": 33,
+  "ortholog_rows": 177,
+  "unique_dmel_genes": 149,
+  "flycellatlas_summary_rows": 149,
+  "top_diopt_priority_rows": 79,
+  "scrna_rows_scanned": 29015086,
+  "adult_nervous_scrna_rows_kept": 153959,
+  "direct_body_id_mapping": false,
+  "mapping_boundary": "FlyBase cell clusters are not direct MaleCNS bodyId measurements",
+  "source_files": [
+    {
+      "path": "data/human-adhd/41588_2022_1285_MOESM6_ESM.xlsx",
+      "bytes": 9081487,
+      "sha256": "ba657650d94c95da547513d3402658e9ab2f33a0ed2d454f7dd04bf15aa51cf7"
+    },
+    {
+      "path": "data/flybase/dmel_human_orthologs_disease_fb_2026_02.tsv.gz",
+      "bytes": 764088,
+      "sha256": "652f4439d248f77b185d83c7226f2c3e42fdd61eeba10d7470f371f3a0442beb"
+    },
+    {
+      "path": "data/flybase/human_disease_models_fb_2026_02.tsv.gz",
+      "bytes": 1413698,
+      "sha256": "f004ab6830134a1457a964071f5599f47a7a80e79b9f8a84f03bc79b0d6e7876"
+    },
+    {
+      "path": "data/flybase/FlyCellAtlas_slimmed_gene_expression_fb_2026_02.tsv.gz",
+      "bytes": 914253,
+      "sha256": "2b2556963282910aa8af55814d2936e626119a9be607d39b19191fd8d6cc5f2b"
+    },
+    {
+      "path": "data/flybase/scRNA-Seq_gene_expression_fb_2026_02.tsv.gz",
+      "bytes": 514548344,
+      "sha256": "070737a5fca79452ed8505ad55766bbd6e19e8c3d301fe143088a678adc49a24"
+    }
+  ]
+}
